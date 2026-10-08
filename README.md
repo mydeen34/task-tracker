@@ -4,6 +4,10 @@ A simple command-line task tracker built with Node.js.
 
 This project allows users to add, update, delete, and manage tasks directly from the terminal. Tasks are stored in a JSON file.
 
+## Project URL
+
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add a new task
@@ -28,8 +32,6 @@ No external npm packages are required.
 
 ## Project Structure
 
-[Task Tracker GitHub Repository](https://github.com/mydeen34/task-tracker)
-```text
 task-tracker/
 │
 ├── task-cli.js
